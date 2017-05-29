@@ -1,5 +1,6 @@
 package fr.razvan.maths;
 
+
 import javax.swing.JFrame;
 import java.awt.*;
 import java.awt.Color;
